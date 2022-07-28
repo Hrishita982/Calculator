@@ -23,6 +23,7 @@ public class CalculatorProject extends javax.swing.JFrame {
     String oldoperator = "";
     int counter=0;
     String btnType = "";
+ 
     public CalculatorProject() {
         initComponents();
     }
